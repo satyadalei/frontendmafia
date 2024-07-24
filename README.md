@@ -8,6 +8,7 @@
 - Ant Design [https://ant.design/](https://ant.design/)
 - Aceternity UI [https://ui.aceternity.com/](https://ui.aceternity.com/)
 - Headless UI [https://headlessui.com/](https://headlessui.com/)
+- Prime React [https://primereact.org/](https://primereact.org/)
 
 ### Copy Paste UI Components(Tailwind CSS)
 - Tailwind UI [https://tailwindui.com/components](https://tailwindui.com/components)
