@@ -23,4 +23,5 @@
 
 
 # React Text Animation/Effects
-- [MDB - Text Effects](https://mdbootstrap.com/docs/react/extended/css-text-animations/)
+- [MDB - Shining Text Effects](https://mdbootstrap.com/docs/react/extended/css-text-animations/)
+- [Circular Text Animation](https://jhey.dev/cheep/circular-text-with-css/)
