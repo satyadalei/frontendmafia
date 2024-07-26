@@ -20,3 +20,7 @@
 - UI Verse [https://uiverse.io/](https://uiverse.io/)
 - Meraki UI [https://merakiui.com/](https://merakiui.com)
 - Daisy UI [https://daisyui.com/](https://daisyui.com/)
+
+
+# React Text Animation/Effects
+- [MDB - Text Effects](https://mdbootstrap.com/docs/react/extended/css-text-animations/)
