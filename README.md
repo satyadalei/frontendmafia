@@ -20,3 +20,6 @@
 - UI Verse [https://uiverse.io/](https://uiverse.io/)
 - Meraki UI [https://merakiui.com/](https://merakiui.com)
 - Daisy UI [https://daisyui.com/](https://daisyui.com/)
+
+### Top Icons Libraries (Downloadable)
+- Icons8 [https://icons8.com/](https://icons8.com/)
