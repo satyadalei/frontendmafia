@@ -23,3 +23,6 @@
 
 ### Top Icons Libraries (Downloadable)
 - Icons8 [https://icons8.com/](https://icons8.com/)
+
+### Icons (Both SVG & jsx)
+- Hero Icons [https://heroicons.com/](https://heroicons.com/)
