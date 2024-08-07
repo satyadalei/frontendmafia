@@ -9,6 +9,7 @@
 - Aceternity UI [https://ui.aceternity.com/](https://ui.aceternity.com/)
 - Headless UI [https://headlessui.com/](https://headlessui.com/)
 - Prime React [https://primereact.org/](https://primereact.org/)
+- Daisy UI [https://daisyui.com/](https://daisyui.com/)
 
 ### Copy Paste UI Components(Tailwind CSS)
 - Tailwind UI [https://tailwindui.com/components](https://tailwindui.com/components)
@@ -19,7 +20,6 @@
 - Tailkit Free UI [https://tailkit.com/free-ui-components](https://tailkit.com/free-ui-components)
 - UI Verse [https://uiverse.io/](https://uiverse.io/)
 - Meraki UI [https://merakiui.com/](https://merakiui.com)
-- Daisy UI [https://daisyui.com/](https://daisyui.com/)
 
 ### Top Icons Libraries (Downloadable)
 - Icons8 [https://icons8.com/](https://icons8.com/)
