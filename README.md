@@ -31,4 +31,4 @@
 ### Animated Icons
  - React Use Animations [Link 🔗](https://react.useanimations.com/) & [GitHub 🔗](https://github.com/useAnimations/react-useanimations)
  - Use Animations [Link 🔗](https://useanimations.com/index.html)
-   -  You can use svg as well as JSON. For creating icons from JSON use [Lottifie 🔗](https://lottiefiles.com/) a Library that creates animated icons from JSON data. How to use? [View documentation 🔗](https://www.npmjs.com/package/lottie-react)
+   -  You can use svg as well as JSON. For creating icons from JSON use [LottieFiles 🔗](https://lottiefiles.com/) a Library that creates animated icons from JSON data. How to use? [View documentation 🔗](https://www.npmjs.com/package/lottie-react)
