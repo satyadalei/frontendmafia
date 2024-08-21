@@ -1,5 +1,9 @@
 # Frontend Mafia
 
+
+### Category
+  [See Category Wise](./category/README.md)
+
 ### React UI Component Libraries(Tailwind CSS)
 
 - Shade cn UI [https://ui.shadcn.com/](https://ui.shadcn.com/)
@@ -20,6 +24,9 @@
 - Tailkit Free UI [https://tailkit.com/free-ui-components](https://tailkit.com/free-ui-components)
 - UI Verse [https://uiverse.io/](https://uiverse.io/)
 - Meraki UI [https://merakiui.com/](https://merakiui.com)
+- Wickedblockd [https://wickedblocks.dev/](https://wickedblocks.dev/)
+- windstatic [https://windstatic.com/](https://windstatic.com/)
+- Kometa [https://kitwind.io/products/kometa/components](https://kitwind.io/products/kometa/components)
 
 ### Top Icons Libraries (Downloadable)
 - Icons8 [https://icons8.com/](https://icons8.com/)
@@ -32,3 +39,14 @@
  - React Use Animations [Link 🔗](https://react.useanimations.com/) & [GitHub 🔗](https://github.com/useAnimations/react-useanimations)
  - Use Animations [Link 🔗](https://useanimations.com/index.html)
    -  You can use svg as well as JSON. For creating icons from JSON use [LottieFiles 🔗](https://lottiefiles.com/) a Library that creates animated icons from JSON data. How to use? [View documentation 🔗](https://www.npmjs.com/package/lottie-react)
+
+
+### Handwritten Components
+ - [https://www.gust-ui.com](https://www.gust-ui.com)
+
+
+### Dotted & Grid Background
+ - [https://ibelick.com/blog/create-grid-and-dot-backgrounds-with-css-tailwind-css](https://ibelick.com/blog/create-grid-and-dot-backgrounds-with-css-tailwind-css)
+
+### Wavy Background 
+- [https://fireship.io/lessons/wavy-backgrounds/](https://fireship.io/lessons/wavy-backgrounds/)
