@@ -28,6 +28,9 @@
 - windstatic [https://windstatic.com/](https://windstatic.com/)
 - Kometa [https://kitwind.io/products/kometa/components](https://kitwind.io/products/kometa/components)
 - Flow Bite [https://flowbite.com/docs/components/skeleton](https://flowbite.com/docs/components/skeleton)
+- OxbowUI [https://oxbowui.com/](https://oxbowui.com/)
+- TailUs [https://tailus.io/](https://tailus.io/)
+- Kutty [https://kutty.netlify.app/components/](https://kutty.netlify.app/components/)
 
 ### Top Icons Libraries (Downloadable)
 - Icons8 [https://icons8.com/](https://icons8.com/)
@@ -54,3 +57,8 @@
 
 ### Illustrations
 - [https://undraw.co/illustrations](https://undraw.co/illustrations)
+
+### Animations
+- Blending Gradient Background [https://play.tailwindcss.com/ULwT6MTmWI](https://play.tailwindcss.com/ULwT6MTmWI)
+
+- Library/package [https://www.tailwindcss-animated.com/](https://www.tailwindcss-animated.com/)
