@@ -51,3 +51,6 @@
 
 ### Wavy Background 
 - [https://fireship.io/lessons/wavy-backgrounds/](https://fireship.io/lessons/wavy-backgrounds/)
+
+### Illustrations
+- [https://undraw.co/illustrations](https://undraw.co/illustrations)
