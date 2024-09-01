@@ -14,6 +14,8 @@
 - Headless UI [https://headlessui.com/](https://headlessui.com/)
 - Prime React [https://primereact.org/](https://primereact.org/)
 - Daisy UI [https://daisyui.com/](https://daisyui.com/)
+- Material Tailwind [https://www.material-tailwind.com/](https://www.material-tailwind.com/)
+
 
 ### Copy Paste UI Components(Tailwind CSS)
 - Tailwind UI [https://tailwindui.com/components](https://tailwindui.com/components)
@@ -31,13 +33,18 @@
 - OxbowUI [https://oxbowui.com/](https://oxbowui.com/)
 - TailUs [https://tailus.io/](https://tailus.io/)
 - Kutty [https://kutty.netlify.app/components/](https://kutty.netlify.app/components/)
+- Tuk Dev [https://tuk.dev/components](https://tuk.dev/components)
+- PageDone UI [https://pagedone.io/blocks](https://pagedone.io/blocks)
+
 
 ### Top Icons Libraries (Downloadable)
 - Icons8 [https://icons8.com/](https://icons8.com/)
 - Downloadable SVGs [Feather Icons](https://feathericons.com/)
 
+
 ### Icons (svg & jsx)
 - Hero Icons [https://heroicons.com/](https://heroicons.com/)
+- https://pagedone.io/icons
 
 ### Animated Icons
  - React Use Animations [Link 🔗](https://react.useanimations.com/) & [GitHub 🔗](https://github.com/useAnimations/react-useanimations)
@@ -60,5 +67,7 @@
 
 ### Animations
 - Blending Gradient Background [https://play.tailwindcss.com/ULwT6MTmWI](https://play.tailwindcss.com/ULwT6MTmWI)
-
+- Rotating words [https://www.dynaui.design/word-rotating](https://www.dynaui.design/word-rotating)
+- Animated drawing [https://www.dynaui.design/animated-drawing-text]
+- Loading Animations [https://www.dynaui.design/loading-animations]
 - Library/package [https://www.tailwindcss-animated.com/](https://www.tailwindcss-animated.com/)

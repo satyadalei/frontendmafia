@@ -1,5 +1,6 @@
 ## Footers
  - [https://oxbowui.com/playground/marketing/footers](https://oxbowui.com/playground/marketing/footers)
+ - https://pagedone.io/blocks/marketing/footer
 
 ## Blogs
 - [https://preline.co/examples/blog-sections.html#](https://preline.co/examples/blog-sections.html)
@@ -11,6 +12,7 @@
 ## Gallery
 - https://tailkit.com/free-ui-components
   (Go to last for stunning one)
+- https://pagedone.io/blocks/marketing/portfolio
   
 
 ## Hero Section
@@ -21,6 +23,9 @@
 
 ## Logo Clouds
 - https://windstatic.com/logoclouds
+
+## Plans
+- https://pagedone.io/blocks/marketing/pricing-plans
 
 ## Resume View
 - https://windstatic.com/templates
