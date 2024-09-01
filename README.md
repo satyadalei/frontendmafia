@@ -27,6 +27,7 @@
 - Wickedblockd [https://wickedblocks.dev/](https://wickedblocks.dev/)
 - windstatic [https://windstatic.com/](https://windstatic.com/)
 - Kometa [https://kitwind.io/products/kometa/components](https://kitwind.io/products/kometa/components)
+- Flow Bite [https://flowbite.com/docs/components/skeleton](https://flowbite.com/docs/components/skeleton)
 
 ### Top Icons Libraries (Downloadable)
 - Icons8 [https://icons8.com/](https://icons8.com/)
