@@ -35,7 +35,10 @@
 - Kutty [https://kutty.netlify.app/components/](https://kutty.netlify.app/components/)
 - Tuk Dev [https://tuk.dev/components](https://tuk.dev/components)
 - PageDone UI [https://pagedone.io/blocks](https://pagedone.io/blocks)
-
+- Tailframes [https://www.tailframes.com/](https://www.tailframes.com/)
+- Tail grids [https://tailgrids.com/](https://tailgrids.com/)
+- Lunar UI [https://lunarui.dev/](https://lunarui.dev/)
+  - Not free, only for inspiration
 
 ### Top Icons Libraries (Downloadable)
 - Icons8 [https://icons8.com/](https://icons8.com/)
@@ -71,3 +74,15 @@
 - Animated drawing [https://www.dynaui.design/animated-drawing-text]
 - Loading Animations [https://www.dynaui.design/loading-animations]
 - Library/package [https://www.tailwindcss-animated.com/](https://www.tailwindcss-animated.com/)
+- Animated section [https://codepen.io/CameronFitzwilliam/pen/rmeMGr](https://codepen.io/CameronFitzwilliam/pen/rmeMGr)
+- Animated Particle Hero section [https://codepen.io/cruip/pen/MWZgzzJ](https://codepen.io/cruip/pen/MWZgzzJ)
+- Sliding Text [https://codepen.io/cruip/pen/dywRwNV](https://codepen.io/cruip/pen/dywRwNV)
+  - Learn : [https://codepen.io/cruip/pen/dywRwNV](https://codepen.io/cruip/pen/dywRwNV)
+- Spot Light Card 
+   - [https://codepen.io/cruip/pen/xxmxgdd](https://codepen.io/cruip/pen/xxmxgdd) 
+   - [https://ibelick.com/blog/create-spotlight-border-with-react-css](https://ibelick.com/blog/create-spotlight-border-with-react-css)
+   - [https://ibelick.com/blog/create-modern-spotlight-effect-with-react-css](https://ibelick.com/blog/create-modern-spotlight-effect-with-react-css)
+- Marque [https://marquee-dev.vercel.app/](https://marquee-dev.vercel.app/)
+  - GitHub - [https://github.com/devnomic/marquee](https://github.com/devnomic/marquee)
+- Animated Page Sliding with route change
+  [https://github.com/rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider)

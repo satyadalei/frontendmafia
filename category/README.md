@@ -24,8 +24,9 @@
 ## Logo Clouds
 - https://windstatic.com/logoclouds
 
-## Plans
+## Plans / Pricing
 - https://pagedone.io/blocks/marketing/pricing-plans
+- https://codepen.io/cruip/pen/oNJZrBB
 
 ## Resume View
 - https://windstatic.com/templates
@@ -43,6 +44,7 @@
 
 ## Timeline
 - https://oxbowui.com/playground/marketing/timeline
+- https://codepen.io/cruip/pen/OJrbPjW
 
 ## Team
 - https://windstatic.com/teams
