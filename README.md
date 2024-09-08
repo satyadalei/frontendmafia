@@ -65,8 +65,9 @@
 ### Wavy Background 
 - [https://fireship.io/lessons/wavy-backgrounds/](https://fireship.io/lessons/wavy-backgrounds/)
 
-### Illustrations
+### Illustrations (Free open source)
 - [https://undraw.co/illustrations](https://undraw.co/illustrations)
+- [https://www.opendoodles.com](https://www.opendoodles.com)
 
 ### Animations
 - Blending Gradient Background [https://play.tailwindcss.com/ULwT6MTmWI](https://play.tailwindcss.com/ULwT6MTmWI)
