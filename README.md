@@ -49,6 +49,9 @@
 - Hero Icons [https://heroicons.com/](https://heroicons.com/)
 - https://pagedone.io/icons
 
+### Animated Icons (JSON)
+- https://unicornicons.com/icons (With Attribution)
+
 ### Animated Icons
  - React Use Animations [Link 🔗](https://react.useanimations.com/) & [GitHub 🔗](https://github.com/useAnimations/react-useanimations)
  - Use Animations [Link 🔗](https://useanimations.com/index.html)
