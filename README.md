@@ -56,6 +56,9 @@
 - Hero Icons [https://heroicons.com/](https://heroicons.com/)
 - https://pagedone.io/icons
 
+### Animated Icons (JSON)
+- https://unicornicons.com/icons (With Attribution)
+
 ### Animated Icons
  - React Use Animations [Link 🔗](https://react.useanimations.com/) & [GitHub 🔗](https://github.com/useAnimations/react-useanimations)
  - Use Animations [Link 🔗](https://useanimations.com/index.html)
@@ -72,8 +75,9 @@
 ### Wavy Background 
 - [https://fireship.io/lessons/wavy-backgrounds/](https://fireship.io/lessons/wavy-backgrounds/)
 
-### Illustrations
+### Illustrations (Free open source)
 - [https://undraw.co/illustrations](https://undraw.co/illustrations)
+- [https://www.opendoodles.com](https://www.opendoodles.com)
 
 ### Animations
 - Blending Gradient Background [https://play.tailwindcss.com/ULwT6MTmWI](https://play.tailwindcss.com/ULwT6MTmWI)
