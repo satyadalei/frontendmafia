@@ -27,6 +27,7 @@
 - UI Verse [https://uiverse.io/](https://uiverse.io/)
 - Meraki UI [https://merakiui.com/](https://merakiui.com)
 - Daisy UI [https://daisyui.com/](https://daisyui.com/)
+- TailwindFlex [https://tailwindflex.com]
 
 
 # React Text Animation/Effects
