@@ -50,4 +50,6 @@
 - https://windstatic.com/teams
 - https://tailus.io/blocks/team
 
+## Dashboard UIs (Copy Paste)
+- https://taildashboards.com
 

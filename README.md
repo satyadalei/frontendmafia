@@ -26,6 +26,13 @@
 - Tailkit Free UI [https://tailkit.com/free-ui-components](https://tailkit.com/free-ui-components)
 - UI Verse [https://uiverse.io/](https://uiverse.io/)
 - Meraki UI [https://merakiui.com/](https://merakiui.com)
+- Daisy UI [https://daisyui.com/](https://daisyui.com/)
+- TailwindFlex [https://tailwindflex.com](https://tailwindflex.com)
+
+
+# React Text Animation/Effects
+- [MDB - Shining Text Effects](https://mdbootstrap.com/docs/react/extended/css-text-animations/)
+- [Circular Text Animation](https://jhey.dev/cheep/circular-text-with-css/)
 - Wickedblockd [https://wickedblocks.dev/](https://wickedblocks.dev/)
 - windstatic [https://windstatic.com/](https://windstatic.com/)
 - Kometa [https://kitwind.io/products/kometa/components](https://kitwind.io/products/kometa/components)
