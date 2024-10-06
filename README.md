@@ -39,6 +39,8 @@
 - Tail grids [https://tailgrids.com/](https://tailgrids.com/)
 - Lunar UI [https://lunarui.dev/](https://lunarui.dev/)
   - Not free, only for inspiration
+- https://componentland.com/component
+- https://flexiwind.vercel.app/
 
 ### Top Icons Libraries (Downloadable)
 
