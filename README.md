@@ -41,6 +41,8 @@
   - Not free, only for inspiration
 - https://componentland.com/component
 - https://flexiwind.vercel.app/
+- https://tailwindflex.com/
+- https://www.landingfolio.com
 
 ### Top Icons Libraries (Downloadable)
 
