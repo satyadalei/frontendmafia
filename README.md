@@ -100,3 +100,4 @@
   - GitHub - [https://github.com/devnomic/marquee](https://github.com/devnomic/marquee)
 - Animated Page Sliding with route change
   [https://github.com/rcaferati/react-awesome-slider](https://github.com/rcaferati/react-awesome-slider)
+- Animated Loaders - [https://css-loaders.com/](https://css-loaders.com/)  
